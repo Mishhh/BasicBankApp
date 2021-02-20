@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Banking Application</string>
+    <string name="balance">Balance:</string>
+    <string name="account_number">Account Number:</string>
+    <string name="name">Name</string>
+    <string name="user_name">User Name:</string>
+</resources>
